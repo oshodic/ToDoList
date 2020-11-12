@@ -1,0 +1,31 @@
+h1 {
+  color: rgb(101, 182, 214);
+  text-align: center;
+  font-size: 100px;
+}
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+  padding-left: inherit;
+}
+
+li {
+  color: pink;
+  text-align: center;
+  list-style-position: inside;
+  padding-left: inherit;
+  font-size: 50px;
+}
+
+form {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(112, 113, 116);
+}
+
+.strike{
+  text-decoration: line-through;
+}
